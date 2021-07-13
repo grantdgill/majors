@@ -82,9 +82,9 @@ fantasy.config = {
             golfers: [
                 JON_RAHM,
                 RORY_MCILROY,
-                JUSTIN_THOMAS,
-                TONY_FINAU,
-                CAMERON_SMITH
+                JORDAN_SPIETH,
+                LOUIS_OOSTHUIZEN,
+                LEE_WESTWOOD
             ]
         },
         {
@@ -99,11 +99,11 @@ fantasy.config = {
         }, {
             name: 'Jack',
             golfers: [
-                BRYSON_DECHAMBEAU,
+                JON_RAHM,
                 BROOKS_KOEPKA,
-                COLLIN_MORIKAWA,
-                JUSTIN_ROSE,
-                PHIL_MICKELSON
+                LOUIS_OOSTHUIZEN,
+                BRYSON_DECHAMBEAU,
+                TOMMY_FLEETWOOD
             ]
         }, {
             name: 'Dave',
@@ -118,11 +118,11 @@ fantasy.config = {
         {
             name: 'Jetta',
             golfers: [
-                PHIL_MICKELSON,
-                JORDAN_SPIETH,
+                PATRICK_CANTLAY,
+                VIKTOR_HOVLAND,
+                RORY_MCILROY,
                 JON_RAHM,
-                WEBB_SIMPSON,
-                RORY_MCILROY
+                JORDAN_SPIETH
             ]
         }, {
             name: 'Ted',
@@ -163,10 +163,10 @@ fantasy.config = {
         }, {
             name: 'Mat',
             golfers: [
-                JON_RAHM,
+                BROOKS_KOEPKA,
+                XANDER_SCHAUFFELE,
                 JORDAN_SPIETH,
-                JUSTIN_THOMAS,
-                COLLIN_MORIKAWA,
+                LOUIS_OOSTHUIZEN,
                 VIKTOR_HOVLAND
             ]
         }, {
@@ -181,11 +181,38 @@ fantasy.config = {
         }, {
             name: 'Laura',
             golfers: [
-                RORY_MCILROY,
-                JORDAN_SPIETH,
-                DANIEL_BERGER,
                 COLLIN_MORIKAWA,
-                LEE_WESTWOOD
+                PATRICK_CANTLAY,
+                XANDER_SCHAUFFELE,
+                CAMERON_SMITH,
+                JORDAN_SPIETH
+            ]
+        }, {
+            name: 'Clay',
+            golfers: [
+                BRYSON_DECHAMBEAU,
+                RICKIE_FOWLER,
+                JON_RAHM,
+                BROOKS_KOEPKA,
+                DUSTIN_JOHNSON
+            ]
+        }, {
+            name: 'Bill',
+            golfers: [
+                JORDAN_SPIETH,
+                JON_RAHM,
+                JUSTIN_THOMAS,
+                DUSTIN_JOHNSON,
+                VIKTOR_HOVLAND
+            ]
+        }, {
+            name: 'Angela',
+            golfers: [
+                JON_RAHM,
+                DUSTIN_JOHNSON,
+                BROOKS_KOEPKA,
+                XANDER_SCHAUFFELE,
+                LOUIS_OOSTHUIZEN
             ]
         }
     ]
