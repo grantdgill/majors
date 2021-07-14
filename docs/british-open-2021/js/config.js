@@ -68,7 +68,8 @@ var fantasy = fantasy || {},
     ABRAHAM_ANCER = '9261',
     SAM_BURNS = '9938',
     CHEZ_REAVIE = '769',
-    WILL_ZALATORIS = '9877';
+    WILL_ZALATORIS = '9877',
+    TYRRELL_HATTON = '5553';
 
 fantasy.config = {
     tournamentName: 'British Open -- 2021',
@@ -77,16 +78,6 @@ fantasy.config = {
     showCut: false,
     apiKey: '_____',
     teams: [
-        {
-            name: 'GrantG',
-            golfers: [
-                JON_RAHM,
-                RORY_MCILROY,
-                JORDAN_SPIETH,
-                LOUIS_OOSTHUIZEN,
-                LEE_WESTWOOD
-            ]
-        },
         {
             name: 'Meagan',
             golfers: [
@@ -127,38 +118,38 @@ fantasy.config = {
         }, {
             name: 'Ted',
             golfers: [
-                JUSTIN_THOMAS,
-                DUSTIN_JOHNSON,
-                PATRICK_CANTLAY,
                 BROOKS_KOEPKA,
-                JORDAN_SPIETH
+                JUSTIN_THOMAS,
+                JORDAN_SPIETH,
+                TOMMY_FLEETWOOD,
+                VIKTOR_HOVLAND
             ]
         }, {
             name: 'GrantH',
             golfers: [
                 JON_RAHM,
-                DUSTIN_JOHNSON,
-                XANDER_SCHAUFFELE,
-                TONY_FINAU,
-                PATRICK_CANTLAY
+                BROOKS_KOEPKA,
+                JUSTIN_THOMAS,
+                LOUIS_OOSTHUIZEN,
+                WEBB_SIMPSON
             ]
         }, {
             name: 'Adam',
             golfers: [
                 BROOKS_KOEPKA,
                 JON_RAHM,
-                COLLIN_MORIKAWA,
-                PATRICK_REED,
-                JORDAN_SPIETH
+                TOMMY_FLEETWOOD,
+                PAUL_CASEY,
+                JUSTIN_ROSE
             ]
         }, {
             name: 'JB',
             golfers: [
-                BROOKS_KOEPKA,
-                JORDAN_SPIETH,
-                TONY_FINAU,
-                WILL_ZALATORIS,
-                WEBB_SIMPSON
+                JON_RAHM,
+                RORY_MCILROY,
+                SHANE_LOWRY,
+                MATTHEW_FITZPATRICK,
+                LEE_WESTWOOD
             ]
         }, {
             name: 'Mat',
@@ -173,10 +164,10 @@ fantasy.config = {
             name: 'John',
             golfers: [
                 JON_RAHM,
-                BRYSON_DECHAMBEAU,
-                RORY_MCILROY,
+                BROOKS_KOEPKA,
                 JORDAN_SPIETH,
-                TONY_FINAU
+                LOUIS_OOSTHUIZEN,
+                ADAM_SCOTT
             ]
         }, {
             name: 'Laura',
@@ -213,6 +204,24 @@ fantasy.config = {
                 BROOKS_KOEPKA,
                 XANDER_SCHAUFFELE,
                 LOUIS_OOSTHUIZEN
+            ]
+        }, {
+            name: 'Archie',
+            golfers: [
+                XANDER_SCHAUFFELE,
+                BROOKS_KOEPKA,
+                JON_RAHM,
+                LOUIS_OOSTHUIZEN,
+                TYRRELL_HATTON
+            ]
+        }, {
+            name: 'GrantG',
+            golfers: [
+                JON_RAHM,
+                RORY_MCILROY,
+                JORDAN_SPIETH,
+                LOUIS_OOSTHUIZEN,
+                LEE_WESTWOOD
             ]
         }
     ]
