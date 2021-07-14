@@ -99,11 +99,11 @@ fantasy.config = {
         }, {
             name: 'Dave',
             golfers: [
-                DUSTIN_JOHNSON,
-                XANDER_SCHAUFFELE,
+                JON_RAHM,
+                JORDAN_SPIETH,
                 COLLIN_MORIKAWA,
-                TONY_FINAU,
-                PATRICK_REED
+                PATRICK_CANTLAY,
+                LOUIS_OOSTHUIZEN
             ]
         },
         {
