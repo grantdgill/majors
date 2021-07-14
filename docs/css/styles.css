@@ -118,6 +118,7 @@ table td:last-child {
 
 .refresher-wrap {
 	height:25px;
+	display:none;
 }
 
 .refresher {
