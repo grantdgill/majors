@@ -82,7 +82,7 @@ fantasy.config = {
             name: 'Meagan',
             golfers: [
                 RORY_MCILROY,
-                HIDEKI_MATSUYAMA,
+                RICKIE_FOWLER,
                 COLLIN_MORIKAWA,
                 VIKTOR_HOVLAND,
                 CHEZ_REAVIE
