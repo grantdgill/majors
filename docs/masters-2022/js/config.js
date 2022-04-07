@@ -79,6 +79,46 @@ fantasy.config = {
     apiKey: '_____',
     teams: [
         {
+            name: 'MatT',
+            golfers: [
+                JON_RAHM,
+                SCOTTIE_SCHEFFLER,
+                RORY_MCILROY,
+                VIKTOR_HOVLAND,
+                BROOKS_KOEPKA
+            ]
+        },
+        {
+            name: 'JB',
+            golfers: [
+                TONY_FINAU,
+                DUSTIN_JOHNSON,
+                COLLIN_MORIKAWA,
+                BROOKS_KOEPKA,
+                JON_RAHM
+            ]
+        },
+        {
+            name: 'ClayT',
+            golfers: [
+                DUSTIN_JOHNSON,
+                JON_RAHM,
+                SCOTTIE_SCHEFFLER,
+                PATRICK_CANTLAY,
+                SAM_BURNS
+            ]
+        },
+        {
+            name: 'AdamP',
+            golfers: [
+                JORDAN_SPIETH,
+                BROOKS_KOEPKA,
+                TIGER_WOODS,
+                CAMERON_SMITH,
+                DUSTIN_JOHNSON
+            ]
+        },
+        {
             name: 'JettaG',
             golfers: [
                 HIDEKI_MATSUYAMA,
