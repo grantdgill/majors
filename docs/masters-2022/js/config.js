@@ -99,6 +99,16 @@ fantasy.config = {
             ]
         },
         {
+            name: 'MatT2',
+            golfers: [
+                JON_RAHM,
+                JUSTIN_THOMAS,
+                JORDAN_SPIETH,
+                RORY_MCILROY,
+                XANDER_SCHAUFFELE
+            ]
+        },
+        {
             name: 'JB',
             golfers: [
                 TONY_FINAU,
