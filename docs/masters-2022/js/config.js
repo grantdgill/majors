@@ -79,6 +79,16 @@ fantasy.config = {
     apiKey: '_____',
     teams: [
         {
+            name: 'MeaganG',
+            golfers: [
+                COLLIN_MORIKAWA,
+                HIDEKI_MATSUYAMA,
+                SERGIO_GARCIA,
+                LOUIS_OOSTHUIZEN,
+                LEE_WESTWOOD
+            ]
+        },
+        {
             name: 'MatT',
             golfers: [
                 JON_RAHM,
