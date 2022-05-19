@@ -233,6 +233,16 @@ fantasy.config = {
                 CAMERON_YOUNG
                 
             ]
+        }, {
+            name: 'MeaganG',
+            golfers: [
+                RORY_MCILROY,
+                HIDEKI_MATSUYAMA,
+                COLLIN_MORIKAWA,
+                BUBBA_WATSON,
+                LEE_WESTWOOD
+                
+            ]
         }
     ]
 };
