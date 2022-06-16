@@ -76,7 +76,7 @@ var fantasy = fantasy || {},
 
 fantasy.config = {
     tournamentName: '2022 US Open',
-    tournamentId: 401353226,
+    tournamentId: 401353222,
     firstPlaceValue: 50,
     showCut: false,
     apiKey: '_____',
