@@ -243,6 +243,15 @@ fantasy.config = {
                 TOMMY_FLEETWOOD,
                 MAX_HOMA
             ]
+        }, {
+            name: 'MeaganG',
+            golfers: [
+                RORY_MCILROY,
+                HIDEKI_MATSUYAMA,
+                COLLIN_MORIKAWA,
+                JON_RAHM,
+                TOMMY_FLEETWOOD
+            ]
         }
     ]
 };
