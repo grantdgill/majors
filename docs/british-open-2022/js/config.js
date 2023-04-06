@@ -227,16 +227,6 @@ fantasy.config = {
                 JUSTIN_ROSE
             ]
         }, {
-            name: 'BillT',
-            golfers: [
-                RORY_MCILROY,
-                JUSTIN_THOMAS,
-                CAMERON_SMITH,
-                JORDAN_SPIETH,
-                WILL_ZALATORIS
-                
-            ]
-        }, {
             name: 'MeaganG',
             golfers: [
                 RORY_MCILROY,
