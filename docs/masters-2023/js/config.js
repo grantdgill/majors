@@ -97,7 +97,7 @@ fantasy.config = {
                 RORY_MCILROY,
                 SCOTTIE_SCHEFFLER,
                 TONY_FINAU,
-                PATRICK_CANTLAY
+                COLLIN_MORIKAWA
             ]
         }, {
             name: 'DaveG',
@@ -206,6 +206,15 @@ fantasy.config = {
                 JON_RAHM,
                 TOM_HOGE,
                 MIN_WOO_LEE
+            ]
+        }, {
+            name: 'AdamP',
+            golfers: [
+                SCOTTIE_SCHEFFLER,
+                JON_RAHM,
+                JORDAN_SPIETH,
+                BROOKS_KOEPKA,
+                DUSTIN_JOHNSON
             ]
         }
     ]
