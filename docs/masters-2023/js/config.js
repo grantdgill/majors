@@ -216,6 +216,15 @@ fantasy.config = {
                 COLLIN_MORIKAWA,
                 TOMMY_FLEETWOOD
             ]
+        }, {
+            name: 'JackG',
+            golfers: [
+                SCOTTIE_SCHEFFLER,
+                RORY_MCILROY,
+                JORDAN_SPIETH,
+                TIGER_WOODS,
+                SAM_BURNS
+            ]
         }
     ]
 };
