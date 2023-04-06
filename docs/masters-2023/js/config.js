@@ -221,9 +221,9 @@ fantasy.config = {
             golfers: [
                 SCOTTIE_SCHEFFLER,
                 RORY_MCILROY,
-                JORDAN_SPIETH,
-                TIGER_WOODS,
-                SAM_BURNS
+                JUSTIN_THOMAS,
+                COLLIN_MORIKAWA,
+                CAMERON_YOUNG
             ]
         }
     ]
