@@ -91,7 +91,7 @@ fantasy.config = {
                 JASON_DAY
             ]
         }, {
-            name: 'JettaG', // @TODO
+            name: 'JettaG',
             golfers: [
                 JON_RAHM,
                 RORY_MCILROY,
@@ -105,7 +105,7 @@ fantasy.config = {
                 SCOTTIE_SCHEFFLER,
                 JON_RAHM,
                 JORDAN_SPIETH,
-                WILL_ZALATORIS,
+                MATTHEW_FITZPATRICK,
                 JASON_DAY
             ]
         }, {
@@ -214,7 +214,7 @@ fantasy.config = {
                 JON_RAHM,
                 JORDAN_SPIETH,
                 COLLIN_MORIKAWA,
-                WILL_ZALATORIS
+                TOMMY_FLEETWOOD
             ]
         }
     ]
