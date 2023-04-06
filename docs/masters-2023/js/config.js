@@ -130,7 +130,7 @@ fantasy.config = {
             name: 'JB',
             golfers: [
                 SCOTTIE_SCHEFFLER,
-                JORDAN_SPIETH,
+                SHANE_LOWRY,
                 TONY_FINAU,
                 COLLIN_MORIKAWA,
                 CAMERON_YOUNG
@@ -190,11 +190,11 @@ fantasy.config = {
                 SAM_BURNS
             ]
         }, {
-            name: 'BillT', // @TODO
+            name: 'BillT',
             golfers: [
                 SCOTTIE_SCHEFFLER,
                 RORY_MCILROY,
-                JON_RAHM,
+                CAMERON_SMITH,
                 JORDAN_SPIETH,
                 XANDER_SCHAUFFELE
             ]
@@ -215,6 +215,15 @@ fantasy.config = {
                 JORDAN_SPIETH,
                 BROOKS_KOEPKA,
                 DUSTIN_JOHNSON
+            ]
+        }, {
+            name: 'MatT',
+            golfers: [
+                RORY_MCILROY,
+                JON_RAHM,
+                JORDAN_SPIETH,
+                COLLIN_MORIKAWA,
+                WILL_ZALATORIS
             ]
         }
     ]
