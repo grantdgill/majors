@@ -162,16 +162,7 @@ fantasy.config = {
                 JUSTIN_THOMAS,
                 PATRICK_CANTLAY
             ]
-        }, {
-            name: 'MeaganG',
-            golfers: [
-                RORY_MCILROY,
-                CAMERON_YOUNG,
-                PATRICK_CANTLAY,
-                VIKTOR_HOVLAND,
-                JASON_DAY
-            ]
-        }, {
+        },  {
             name: 'GrantH',
             golfers: [
                 SCOTTIE_SCHEFFLER,
