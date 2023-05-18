@@ -173,6 +173,15 @@ fantasy.config = {
                 TONY_FINAU,
                 JUSTIN_THOMAS
             ]
+        }, {
+            name: 'GrantG',
+            golfers: [
+                JON_RAHM,
+                RORY_MCILROY,
+                TONY_FINAU,
+                CAMERON_YOUNG,
+                MAX_HOMA
+            ]
         }
     ]
 };
