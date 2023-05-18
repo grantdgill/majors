@@ -164,6 +164,15 @@ fantasy.config = {
                 TOM_KIM,
                 JORDAN_SPIETH
             ]
+        }, {
+            name: 'AdamP',
+            golfers: [
+                JON_RAHM,
+                SCOTTIE_SCHEFFLER,
+                BROOKS_KOEPKA,
+                TONY_FINAU,
+                JUSTIN_THOMAS
+            ]
         }
     ]
 };
