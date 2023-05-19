@@ -182,6 +182,33 @@ fantasy.config = {
                 CAMERON_YOUNG,
                 MAX_HOMA
             ]
+        }, {
+            name: 'DaveG',
+            golfers: [
+                XANDER_SCHAUFFELE,
+                SCOTTIE_SCHEFFLER,
+                JON_RAHM,
+                TONY_FINAU,
+                JASON_DAY
+            ]
+        }, {
+            name: 'MatT',
+            golfers: [
+                JON_RAHM,
+                SCOTTIE_SCHEFFLER,
+                XANDER_SCHAUFFELE,
+                MATTHEW_FITZPATRICK,
+                JORDAN_SPIETH
+            ]
+        }, {
+            name: 'TedM',
+            golfers: [
+                JON_RAHM,
+                RORY_MCILROY,
+                BROOKS_KOEPKA,
+                JUSTIN_THOMAS,
+                SCOTTIE_SCHEFFLER
+            ]
         }
     ]
 };
