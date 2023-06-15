@@ -228,6 +228,15 @@ fantasy.config = {
                 MAX_HOMA,
                 MATTHEW_FITZPATRICK
             ]
+        }, {
+            name: 'ClayT',
+            golfers: [
+                BROOKS_KOEPKA,
+                SCOTTIE_SCHEFFLER,
+                TONY_FINAU,
+                VIKTOR_HOVLAND,
+                JUSTIN_ROSE
+            ]
         }
     ]
 };
