@@ -79,7 +79,7 @@ var fantasy = fantasy || {},
 
 fantasy.config = {
     tournamentName: '2023 Open Championship',
-    tournamentId: 401465523,
+    tournamentId: 401465539,
     firstPlaceValue: 50,
     showCut: false,
     apiKey: '_____',
