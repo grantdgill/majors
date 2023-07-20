@@ -220,6 +220,15 @@ fantasy.config = {
                 JORDAN_SPIETH,
                 ROBERT_MACINTYRE
             ]
+        }, {
+            name: 'ChuckD',
+            golfers: [
+                RORY_MCILROY,
+                TOMMY_FLEETWOOD,
+                SHANE_LOWRY,
+                JON_RAHM,
+                COLLIN_MORIKAWA
+            ]
         }
     ]
 };
