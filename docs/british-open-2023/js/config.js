@@ -75,7 +75,8 @@ var fantasy = fantasy || {},
     MIN_WOO_LEE = '4410932',
     MITO_PEREIRA = '9931',
     TOM_KIM = '4602673',
-    PADRAIG_HARRINGTON = '186';
+    PADRAIG_HARRINGTON = '186',
+    ROBERT_MACINTYRE = '11378';
 
 fantasy.config = {
     tournamentName: '2023 Open Championship',
