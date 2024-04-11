@@ -77,7 +77,8 @@ var fantasy = fantasy || {},
     LUDVIG_ABERG = '4375972',
     SAHITH_THEEGALA = '10980',
     AKSHAY_BHATIA = '4419142',
-    JOAQUIN_NIEMANN = '11099';
+    JOAQUIN_NIEMANN = '11099',
+    DENNY_MCCARTHY = '10054';
 
 fantasy.config = {
     tournamentName: '2024 Masters',
@@ -202,6 +203,42 @@ fantasy.config = {
                 COLLIN_MORIKAWA,
                 RICKIE_FOWLER,
                 JASON_DAY
+            ]
+        }, {
+            name: 'MatT',
+            golfers: [
+                SCOTTIE_SCHEFFLER,
+                JON_RAHM,
+                BROOKS_KOEPKA,
+                VIKTOR_HOVLAND,
+                WYNDHAM_CLARK
+            ]
+        }, {
+            name: 'BillT',
+            golfers: [
+                JON_RAHM,
+                SCOTTIE_SCHEFFLER,
+                RORY_MCILROY,
+                JORDAN_SPIETH,
+                WYNDHAM_CLARK
+            ]
+        }, {
+            name: 'ArchieT',
+            golfers: [
+                SCOTTIE_SCHEFFLER,
+                RORY_MCILROY,
+                XANDER_SCHAUFFELE,
+                DENNY_MCCARTHY,
+                HIDEKI_MATSUYAMA
+            ]
+        }, {
+            name: 'ClayT',
+            golfers: [
+                SCOTTIE_SCHEFFLER,
+                JORDAN_SPIETH,
+                RORY_MCILROY,
+                MATTHEW_FITZPATRICK,
+                XANDER_SCHAUFFELE
             ]
         }
     ]
