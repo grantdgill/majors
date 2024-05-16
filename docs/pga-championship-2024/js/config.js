@@ -73,8 +73,12 @@ var fantasy = fantasy || {},
     CAMERON_YOUNG = '4425906',
     TOM_HOGE = '6086',
     MIN_WOO_LEE = '4410932',
-    MITO_PEREIRA = '9931',
-    TOM_KIM = '4602673';
+    WYNDHAM_CLARK = '11119',
+    LUDVIG_ABERG = '4375972',
+    SAHITH_THEEGALA = '10980',
+    AKSHAY_BHATIA = '4419142',
+    JOAQUIN_NIEMANN = '11099',
+    DENNY_MCCARTHY = '10054';
 
 fantasy.config = {
     tournamentName: '2024 PGA Championship',
