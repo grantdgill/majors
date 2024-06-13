@@ -174,7 +174,7 @@ fantasy.config = {
                 SCOTTIE_SCHEFFLER,
                 XANDER_SCHAUFFELE,
                 RORY_MCILROY,
-                BRYSON_DECHAMBEAU, // swapped bryson for ludvig
+                LUDVIG_ABERG, // swapped bryson for ludvig
                 BROOKS_KOEPKA
             ]
         }, {
