@@ -200,7 +200,7 @@ fantasy.config = {
                 JORDAN_SPIETH
             ]
         }, {
-            name: 'MeaganM',
+            name: 'MeaganG',
             golfers: [
                 TOMMY_FLEETWOOD,
                 COLLIN_MORIKAWA,
