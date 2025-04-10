@@ -144,33 +144,6 @@ fantasy.config = {
                 PATRICK_REED
             ]
         }, {
-            name: 'TedM',
-            golfers: [
-                SCOTTIE_SCHEFFLER,
-                RORY_MCILROY,
-                JON_RAHM,
-                JORDAN_SPIETH,
-                MATTHEW_FITZPATRICK
-            ]
-        }, {
-            name: 'CarolM',
-            golfers: [
-                AKSHAY_BHATIA,
-                HIDEKI_MATSUYAMA,
-                BROOKS_KOEPKA,
-                RORY_MCILROY,
-                SCOTTIE_SCHEFFLER
-            ]
-        }, {
-            name: 'JB',
-            golfers: [
-                SCOTTIE_SCHEFFLER,
-                BROOKS_KOEPKA,
-                HIDEKI_MATSUYAMA,
-                JOAQUIN_NIEMANN,
-                TONY_FINAU
-            ]
-        },  {
             name: 'TommyTG',
             golfers: [
                 SCOTTIE_SCHEFFLER,
