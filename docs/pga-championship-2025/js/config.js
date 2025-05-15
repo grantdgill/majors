@@ -84,7 +84,8 @@ var fantasy = fantasy || {},
     PATRICK_RODGERS = '6825',
     MICHAEL_THORBJORNSEN = '4425904',
     JAKE_KNAPP = '9843',
-    MAVERICK_MCNEALY = '9530';
+    MAVERICK_MCNEALY = '9530',
+    SEPP_STRAKA = '8961';
 
 fantasy.config = {
     tournamentName: '2025 PGA Championship',
@@ -128,6 +129,15 @@ fantasy.config = {
                 JORDAN_SPIETH,
                 HIDEKI_MATSUYAMA,
                 TOMMY_FLEETWOOD
+            ]
+        }, {
+            name: 'MatT',
+            golfers: [
+                SCOTTIE_SCHEFFLER,
+                RORY_MCILROY,
+                BRYSON_DECHAMBEAU,
+                SEPP_STRAKA,
+                COLLIN_MORIKAWA
             ]
         }, {
             name: 'JB',
