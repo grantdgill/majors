@@ -167,7 +167,7 @@ fantasy.config = {
                 XANDER_SCHAUFFELE,
                 LUDVIG_ABERG,
                 CAMERON_YOUNG,
-                JUSTIN_THOMAS
+                JUSTIN_ROSE
             ]
         }, {
             name: 'JackieG',
