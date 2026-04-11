@@ -173,7 +173,7 @@ fantasy.config = {
             name: 'JackieG',
             golfers: [
                 SCOTTIE_SCHEFFLER,
-                XANDER_SCHAUFFELE,
+                RORY_MCILROY,
                 JON_RAHM,
                 JUSTIN_ROSE,
                 JJ_SPAUN
