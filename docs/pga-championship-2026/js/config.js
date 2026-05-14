@@ -215,6 +215,15 @@ fantasy.config = {
                 AKSHAY_BHATIA,
                 KURT_KITAYAMA
             ]
+        }, {
+            name: 'MatT',
+            golfers: [
+                SCOTTIE_SCHEFFLER,
+                RORY_MCILROY,
+                JON_RAHM,
+                MATTHEW_FITZPATRICK,
+                JUSTIN_ROSE
+            ]
         }
     ]
 };
